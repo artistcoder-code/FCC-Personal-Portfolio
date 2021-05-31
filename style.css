@@ -27,7 +27,7 @@ header {
     top: 0;
     left: 0;
     z-index: 1;
-    background: #B03A2E;
+    background: #012e67;
 }
 
 .navbar {
@@ -58,7 +58,7 @@ header {
     height: 100vh;
     width: 100%;
     right: 0;
-    background: #212F3D;
+    background: #2b6684;
     color: #fff;
 }
 .welcome-section-block {
@@ -82,13 +82,13 @@ header {
     font-weight: 300;
     font-style: italic;
     text-align: center;
-    color: #943126;
+    color: #0a1417;
     margin-top: 0;
 
 }
 
 .projects {
-    background: #5D6D7E;
+    background: #032e42;
     color: #fff;
 }
 
@@ -117,15 +117,15 @@ header {
 }
 
 .project-title {
-    background: #34495E;
-    color: #34495E;
+    background: #9cacbf;
+    color: #9cacbf;
     text-align: center;
     font-size: 1rem;
     margin: -.5em 0 2rem;
     padding: 1em;
 }
 .project-title:hover {
-    color: #F39C12;
+    color: #0a1417;
     transition: color 0.3s ease-out;
 }
 .project-span {
@@ -156,7 +156,7 @@ form {
 }
 
 .contact {
-    background: #212F3D;
+    background: #2b6684;
     color: #fff;
     height: 80vh;
     padding: 150px 0 0 0;
@@ -182,7 +182,7 @@ form {
 
 
 .contact-line {
-   background-color: #B03A2E;
+   background-color: #0a1417;
    padding: .2em;
    margin: 0;
 }
@@ -212,14 +212,14 @@ i {
 }
 
 .profile-link:hover {
-    color: #E74C3C;
+    color: #0a1417;
     transition: top 0.3s ease-out;
     top: 3px;
  
 }
 
 .footer {
-    background: #212F3D;
+    background: #2b6684;
     color: #fff; 
     height: 20vh;
 }
